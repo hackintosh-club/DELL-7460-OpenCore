@@ -83,7 +83,9 @@ Settings
 
  - 4.本EFI中的英特尔Wifi驱动仅适配MacOS 14  Sonoma,请根据MacOS版本自行下载替换[英特尔无线驱动](https://hackintosh.club/d/10000015)
 
- - 5.您也可以使用RU.efi工具修改DVMT（核显显存设置），修改后可对应删除核显注入部分：framebuffer-fbmem、framebuffer-stolenmem、framebuffer-unifiedmem，（此步骤为非必须操作的步骤）。RU修改地址如下：
+ - 5.[耳机插件ComboJack](https://github.com/hackintosh-stuff/ComboJack)，VerbStub.kext已放入Kexts目录，自行使用终端运行 ComboJack_Installer / ComboJack 解决3.5mm耳机问题
+
+ - 6.您也可以使用RU.efi工具修改DVMT（核显显存设置），修改后可对应删除核显注入部分：framebuffer-fbmem、framebuffer-stolenmem、framebuffer-unifiedmem，（此步骤为非必须操作的步骤）。RU修改地址如下：
 
 | Option   | UEFI Variable Name | Address | Default | Replace |
 | -------- | ------------------ | ------- | ------- | ------- |
