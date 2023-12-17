@@ -73,7 +73,7 @@ Settings
 
 ### 注意事项
 
- - 安装成功后必须使用 [OpenCore Configurator](https://mackie100projects.altervista.org/opencore-configurator/) 或者 [OCAuxiliaryTools](https://github.com/ic005k/OCAuxiliaryTools) 生成你自己的 SMBIOS
+ - 1.安装成功后必须使用 [OpenCore Configurator](https://mackie100projects.altervista.org/opencore-configurator/) 或者 [OCAuxiliaryTools](https://github.com/ic005k/OCAuxiliaryTools) 生成你自己的 SMBIOS
 
  - 2.首次使用必须在OC引导界面按空格键后，选择隐藏工具CFGLock.efi解锁
 
@@ -90,7 +90,7 @@ Settings
 | DVMT     | SETUP              | 0x785   | 0x1     | 0x2     |
 | DVMT MAX | SETUP              | 0x786   | 0x2     | 0x3     |
 
-![image](Screenshot/RU DVMT.jpg)
+![image](Screenshot/RUDVMT.jpg)
 
 **RU修改教程详见**：[【黑苹果】无法解锁的CFG LOCK | 新技能get !](https://www.bilibili.com/video/BV1LV4y1N7jF)
 
