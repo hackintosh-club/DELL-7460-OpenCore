@@ -68,7 +68,7 @@ Settings
      
  |-- Virtualization Support
      |-- VT For Direct I/O
-        |-- Enabled VT for Direct I/O : uncheck 
+        |-- Enabled VT for Direct I/O : check 
 ```
 
 ### 注意事项
